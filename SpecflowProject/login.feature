@@ -7,6 +7,8 @@ Background: login
 Given user in the homepage
 When the user entered <username> and <password>
 And Click On Login
+Then click user in make appointmnent
+
 
 
 @mytag
